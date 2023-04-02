@@ -1,0 +1,12 @@
+git --version
+git init
+git status
+git add
+git commit -m "message"
+git restore
+git diff
+git log
+git add . (. currrent dir)
+git remote -v
+git remote add origin <url of git hub repo>
+git push origin master(local master --> git hub repo master)
